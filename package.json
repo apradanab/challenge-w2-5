@@ -32,5 +32,8 @@
         ]
       }
     }
+  },
+  "dependencies": {
+    "eclint": "^2.8.1"
   }
 }
